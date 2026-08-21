@@ -32,7 +32,7 @@ https://github.com/rymrimi777-rgb/paku-terminal-companion
 
 ---
 
-## 🚀 What's Coming?
+##  What's Coming?
 
 Paku is still growing ♡
 
@@ -50,7 +50,7 @@ Keep an eye on the website for:
 
 ---
 
-## 👩‍💻 Creator
+##  Creator
 
 Made by **rymrimi777-rgb**
 
