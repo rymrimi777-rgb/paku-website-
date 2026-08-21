@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420">
+<rect width="600" height="420" rx="18" fill="#fff7fb"/><rect x="24" y="24" width="552" height="372" rx="14" fill="#dff3ef" stroke="#bd5886" stroke-width="4"/>
+<rect x="70" y="70" width="460" height="250" rx="10" fill="#fff" stroke="#3d5360" stroke-width="3"/>
+<rect x="70" y="70" width="460" height="42" rx="10" fill="#f6d8e5"/><circle cx="92" cy="91" r="6" fill="#bd5886"/><circle cx="112" cy="91" r="6" fill="#e7a9c1"/><circle cx="132" cy="91" r="6" fill="#9acfc7"/>
+<text x="100" y="154" font-family="monospace" font-size="25" fill="#3d5360">$ paku doctor</text><text x="100" y="195" font-family="monospace" font-size="19" fill="#5e7f78">✓ system healthy</text><text x="100" y="228" font-family="monospace" font-size="19" fill="#5e7f78">✓ workspace ready</text><text x="100" y="261" font-family="monospace" font-size="19" fill="#bd5886">♡ take care of your PC</text>
+<path d="M275 347q25-24 50 0" fill="none" stroke="#bd5886" stroke-width="5"/><circle cx="267" cy="338" r="5" fill="#3d5360"/><circle cx="333" cy="338" r="5" fill="#3d5360"/>
+</svg>
